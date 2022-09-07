@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    color: white;
+    background: #031533;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#increment {
+    display: flex;
+    justify-content: space-between;
+}
+
+#home-marks,
+#guest-marks {
+    background-color: black;
+    color: #F94F6D;
+    display: flex;
+    padding: 20px;
+    text-align: center;    
+    font-family: 'Diplomata SC', cursive;
+    font-family: Cursed Timer ULiL;
+font-size: 70px;
+font-weight: 200;
+margin: 0px;
+line-height: 77px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.plus-one {
+    border: 1px white solid;
+    border-radius: 4px;
+    background: #031533;
+    color: white;
+    padding: 5px; 
+}
+
+.plus-two {
+     border: 1px white solid;
+     border-radius: 4px;
+     background: #031533;
+     color: white;
+     padding: 5px;
+}
+
+.plus-three {
+     border: 1px white solid;
+     border-radius: 4px;
+     background: #031533;
+     color: white;
+     padding: 5px;
+}
+
+button {
+    cursor: pointer;
+}
+
+#start {
+    margin: 20px;
+    align-content: center;
+    text-align: center;
+    color: wheat;
+    background: #031533;
+    border: 2px lightgrey solid;
+    border-radius: 5px;
+}
+
+h3 {
+    
+}
